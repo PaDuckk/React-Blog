@@ -12,16 +12,25 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
-OS X & Linux:
+yarn 설치 :
 
 ```sh
-npm install my-crazy-module --save
+[yarn 설치페이지](https://yarnpkg.com/en/docs/install#windows-stable)
 ```
 
-Windows:
+
+blog-backend :
 
 ```sh
-edit autoexec.bat
+yarn add esm
+yarn start
+```
+
+blog-frontend:
+
+```sh
+yarn add create react app
+yarn start
 ```
 
 ## Usage example
@@ -38,21 +47,6 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
 
 ## Meta
 
