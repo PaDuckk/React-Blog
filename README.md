@@ -15,7 +15,7 @@ One to two paragraph statement about your product and what it does.
 yarn 설치 :
 
 ```sh
-[yarn 설치페이지](https://yarnpkg.com/en/docs/install#windows-stable)
+[https://yarnpkg.com/en/docs/install#windows-stable](https://yarnpkg.com/en/docs/install#windows-stable)
 ```
 
 
